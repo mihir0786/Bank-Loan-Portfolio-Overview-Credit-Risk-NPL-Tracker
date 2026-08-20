@@ -47,7 +47,7 @@ bank-loan-portfolio-credit-risk-powerbi/
 │   ├── Dim_Customer.csv
 │   └── Fact_BankFinancials.csv
 │
-├── screenshots/
+├── pic/
 │   ├── 01_bank_loan_portfolio_overview.png
 │   ├── 02_credit_risk_npl_tracker.png
 │   ├── 03_data_model_star_schema.png
