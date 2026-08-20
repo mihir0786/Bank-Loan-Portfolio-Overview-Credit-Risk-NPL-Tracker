@@ -26,7 +26,7 @@ The dataset is fully synthetic and was created for learning, portfolio demonstra
 
 ### Credit Risk & NPL Tracker
 
-![Credit Risk NPL Tracker](screenshots/02_credit_risk_npl_tracker.png)
+![Credit Risk NPL Tracker](pic/Screenshot%202026-07-08%20175621.png)
 
 ---
 
