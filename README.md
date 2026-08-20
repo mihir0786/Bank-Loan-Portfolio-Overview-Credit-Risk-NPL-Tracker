@@ -37,7 +37,8 @@ bank-loan-portfolio-credit-risk-powerbi/
 │
 ├── README.md
 ├── Bank_Loan_Portfolio_Credit_Risk_Report.pdf
-├── Bank_Loan_Portfolio_Credit_Risk.pbix
+├── Credit analyst 1.pbix
+├── Credit analyst 1.pbix
 │
 ├── data/
 │   ├── Fact_Loans.csv
