@@ -22,7 +22,7 @@ The dataset is fully synthetic and was created for learning, portfolio demonstra
 
 ### Bank Loan Portfolio Overview
 
-![Bank Loan Portfolio Overview](screenshots/01_bank_loan_portfolio_overview.png)
+![Bank Loan Portfolio Overview](pic/Screenshot%202026-07-08%20175514.png)
 
 ### Credit Risk & NPL Tracker
 
