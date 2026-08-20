@@ -1,0 +1,7 @@
+ProductID,LoanType,SecuredFlag,ProductCategory
+P01,Personal Loan,Unsecured,Consumer
+P02,Auto Loan,Secured,Consumer
+P03,Home Loan,Secured,Mortgage
+P04,Credit Card Loan,Unsecured,Consumer
+P05,Small Business Loan,Secured,Business
+P06,Education Loan,Unsecured,Education

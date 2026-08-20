@@ -1,0 +1,11 @@
+BranchID,BranchName,City,State,Region
+B001,Gainesville Main,Gainesville,FL,Florida
+B002,Orlando Central,Orlando,FL,Florida
+B003,Tampa Bay,Tampa,FL,Florida
+B004,Miami Downtown,Miami,FL,Florida
+B005,Jacksonville North,Jacksonville,FL,Florida
+B006,Atlanta Midtown,Atlanta,GA,Southeast
+B007,Charlotte Uptown,Charlotte,NC,Southeast
+B008,Nashville West,Nashville,TN,Southeast
+B009,Dallas Central,Dallas,TX,Southwest
+B010,Houston South,Houston,TX,Southwest
